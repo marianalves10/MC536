@@ -1,5 +1,5 @@
 # Aluno
-* `RA`: `Mariana Alves de Sousa`
+* `241201`: `Mariana Alves de Sousa`
 
 ## Modelo Lógico do Banco de Dados de Grafos
 > ![Modelo Lógico de Grafos](images/modelo-logico-grafos.png)
